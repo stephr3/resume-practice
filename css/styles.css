@@ -1,0 +1,20 @@
+body {
+  color: blue
+}
+
+
+
+#education {
+  height: 100vh;
+  background-color: green;
+}
+
+#experience {
+  height: 100vh;
+  background-color: red;
+}
+
+#skills {
+  height: 100vh;
+  background-color: pink;
+}
