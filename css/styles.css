@@ -1,5 +1,6 @@
 body {
-  color: blue
+  color: blue;
+  background-color: #C3E1EB;
 }
 
 h2 {
@@ -18,22 +19,24 @@ ul.nav {
   padding: 10px;
 }
 
+.important {
+  font-weight: bold;
+}
+
 #education {
   height: 100vh;
-  background-color: green;
 }
 
 #experience {
   height: 100vh;
-  background-color: red;
 }
 
 #skills {
   height: 100vh;
-  background-color: pink;
 }
 #education, #experience, #skills p {
   font-style: italic;
+  font-size: 2em;
 }
 p.test {
   text-align: center;
